@@ -17,6 +17,8 @@ export default {
             mobileView: true, 
             ativo: true,
 
+            token: false,
+
             showEsconder: false,
             showMostrar: true,
         }
